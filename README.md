@@ -1,3 +1,37 @@
+🇵🇹 PT
+
+# LOGOS CDN
+Este repositório contém uma coleção de logótipos que você pode/deve usar em seu trabalho.
+
+## Como usar os logótipos
+Navegue pelos logótipos desta pasta e escolha aquele que melhor se adapta às suas necessidades.
+
+#### Como baixar:
+   1. Clique no logotipo para visualizá-lo em tamanho real.
+   2. Clique com o botão direito do mouse no logotipo e selecione "Salvar imagem como" para salvá-lo em seu computador.
+   3. Insira o logotipo em seu documento ou apresentação.
+
+NOTA: Lembre-se de sempre usar os logótipos oficiais fornecidos nesta pasta para garantir consistência e profissionalismo.
+
+## Usar os logótipos em seu trabalho
+Ao usar os logótipos em seu trabalho, siga estas diretrizes:
+
+- Não altere os logótipos de forma alguma.
+- Não estique ou distorça os logótipos.
+- Não adicione nenhum efeito aos logótipos (por exemplo, sombras projetadas, gradientes, etc.).
+- Use os logótipos apenas no contexto de trabalhos ciêntificos ou relacionados com a empresa/entidade.
+
+Se você tiver alguma **dúvida** sobre o uso dos logótipos, entre em contato com okeanos.secretariado@uac.pt para obter ajuda.
+
+## Direitos e Condições de utilização
+
+**Qualquer uso não autorizado desses logótipos é estritamente proibido.**
+
+Ao usar os logótipos nesta pasta, **você concorda em cumprir as diretrizes descritas neste arquivo README.md** e em usar os logótipos apenas no contexto de trabalhos ciêntificos ou relacionados com a empresa/entidade.
+
+---
+
+🇬🇧 ENG
 # LOGOS CDN
 This repository contains a collection of logos that you can/must use in your work.
 
@@ -25,3 +59,4 @@ If you have any **questions** about using the logos, please contact okeanos.secr
 Any unauthorized use of these logos is strictly prohibited.
 
 By using the logos in this folder, you agree to comply with the guidelines outlined in this README file and to use the logos only in the context of official company business.
+
