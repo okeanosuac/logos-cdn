@@ -1,3 +1,12 @@
+#### Special thanks to our contributions:
+- Valter Medeiros (https://github.com/valtermedeiros)
+- Beatriz Silva
+- Rui Prieto (https://explorer-directory.nationalgeographic.org/rui-prieto)
+
+___
+
+
+
 🇵🇹 PT
 
 # LOGOS CDN
@@ -13,7 +22,7 @@ Navegue pelos logótipos desta pasta e escolha aquele que melhor se adapta às s
 
 NOTA: Lembre-se de sempre usar os logótipos oficiais fornecidos nesta pasta para garantir consistência e profissionalismo.
 
-## Usar os logótipos em seu trabalho
+## Usar os logótipos no seu trabalho/projeto
 Ao usar os logótipos em seu trabalho, siga estas diretrizes:
 
 - Não altere os logótipos de forma alguma.
