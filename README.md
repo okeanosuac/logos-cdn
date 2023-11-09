@@ -1,4 +1,4 @@
-#### Special thanks to our contributions:
+#### Special thanks:
 - Valter Medeiros (https://github.com/valtermedeiros)
 - Beatriz Silva
 - Rui Prieto (https://explorer-directory.nationalgeographic.org/rui-prieto)
